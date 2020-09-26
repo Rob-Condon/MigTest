@@ -1,0 +1,36 @@
+/*
+
+Theme Name: Pro &ndash; Child Theme
+Theme URI: http://theme.co/pro/
+Author: Themeco
+Author URI: http://theme.co/
+Description: Make all of your modifications to Pro in this child theme.
+Version: 1.0.0
+Template: pro
+
+*/
+.single-post .x-container.offset {
+    margin: 45px auto 285px;
+}
+
+.blog .x-container.offset {
+    margin: 45px auto 285px;
+}
+.blog-lists {
+    padding: 0 0 1.313em;
+    border-bottom: 2px solid #7cc245;
+}
+.blog-lists .entry-wrap {
+    border-radius: 0;
+    box-shadow: none;
+    padding: 20px;
+}
+.blog .hentry {
+    margin-top: 0;
+}
+.entry-title {
+	font-size: 30px;
+}
+.more-link{
+	font-size: 16px;
+}

@@ -1,0 +1,25 @@
+<?php
+
+return array (
+    'id'                    => '',
+    'class'                 => '',
+    'style'                 => '',
+    'lightbox_type'         => 'lightbox-image',
+    'lightbox_image'        => '',
+    'lightbox_content'      => 'Add your popup content here',
+    'lightbox_url'          => '',
+    'identifier'            => '#open-popup',
+    'trigger_on'            => 'button',
+    'button_size'           => 'default',
+    'button_text'           => 'Open Modal',
+    'delay'                 => '2',
+    'content_bg_color'      => '#fff',
+    'close_btn_color'       => '#a9a9a9',
+    'close_btn_bg_color'    => '#fff',
+    'popup_width'           => '80',
+    'popup_max_width'       => '650',
+    'popup_border_radius'    => '0',
+    'popup_padding'         => array( '20px', '20px', '20px', '20px', 'linked'),
+    'enable_overlay'        => true,
+    'overlay_bg_color'      => 'rgba(0, 0, 0, 0.75);',
+);

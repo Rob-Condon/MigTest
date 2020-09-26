@@ -1,0 +1,8 @@
+[02-Dec-2018 09:38:10 Pacific/Auckland] PHP Fatal error:  Uncaught Error: Call to undefined function x_get_view() in /home/lifestylelandscp/public_html/wp-content/themes/pro/404.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/lifestylelandscp/public_html/wp-content/themes/pro/404.php on line 17
+[05-Dec-2018 19:40:52 Pacific/Auckland] PHP Fatal error:  Uncaught Error: Call to undefined function x_get_view() in /home/lifestylelandscp/public_html/wp-content/themes/pro/404.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/lifestylelandscp/public_html/wp-content/themes/pro/404.php on line 17
